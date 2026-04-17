@@ -1,8 +1,0 @@
-ultralytics
-opencv-python
-numpy
-scikit-learn
-matplotlib
-keras
-tensorflow
-pickle-mixin
