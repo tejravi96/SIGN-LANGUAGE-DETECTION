@@ -1,0 +1,1 @@
+print('ST-GCN training placeholder')

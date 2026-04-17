@@ -1,0 +1,1 @@
+print('YOLOv11 training placeholder')
