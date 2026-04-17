@@ -19,8 +19,8 @@ It helps in translating hand signs into meaningful outputs, improving communicat
 🛠️ Tech Stack
 
 - Python
-- OpenCV
-- NumPy
+- yolov11
+- ST-CGN
 - TensorFlow / Keras
 
 ---
