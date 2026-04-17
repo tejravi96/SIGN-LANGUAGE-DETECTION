@@ -1,0 +1,1 @@
+Place stgcn_model.h5 and yolo11_best.pt here
